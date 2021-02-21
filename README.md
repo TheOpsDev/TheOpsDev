@@ -1,15 +1,15 @@
 ### Hey I'm Chris 👋🤙
 
-I'm a Systems Engineer at [blackline.com](https://www.blackline.com/) with afocus on process automation.
+I'm a Systems Engineer at [blackline.com](https://www.blackline.com/) with a focus on process automation in PowerShell and Jenkins pipeline workflows.
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
-<p align='center'>
+<p align='left'>
 <a href="https://www.linkedin.com/in/cherrera91/"><img height="30" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/linkedin_logo.png"></a>&nbsp;&nbsp;
 <a href="mailto:christian@christian-herrera.com"><img height="30" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/email_icon.png"></a>&nbsp;&nbsp;
 </p>
-
-- ⚡ Fun fact: Jiu Jitsu practitioner, 6 string surfer, and movie fanatic
+💻 I’m currently learning K8S, GKE, and Jenkins X
+⚡ Fun fact: jiu jitsu practitioner, 6 string surfer, and movie fanatic
 
 <!--
 **TheOpsDev/TheOpsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
