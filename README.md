@@ -2,7 +2,7 @@
 
 I'm a Systems Engineer at [blackline.com](https://www.blackline.com/) with a focus on process automation in PowerShell and Jenkins pipeline workflows.
 
-💻 I’m currently learning K8S, GKE, and Jenkins X
+💻 I’m currently learning Golang, K8S, GKE, and Jenkins X
 
 📫 How to reach me: ...
 
