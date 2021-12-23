@@ -1,8 +1,10 @@
 ### Hey I'm Chris 👋🤙
 
-I'm a Google Cloud Certified Engineer at [blackline.com](https://www.blackline.com/) with a focus on process automation in PowerShell and Jenkins pipeline workflows.
+I'm a Senior Staff DevOps Engineer at [freedomfinancialnetwork.com](https://www.freedomfinancialnetwork.com/) 
 
-💻 I’m currently learning Golang, K8S, , and GKE
+<!-- with a focus on process automation in PowerShell and Jenkins pipeline workflows. -->
+
+💻 I’m currently focusing on working with cloud native tooling with Golang, K8S, Terraform, and GKE
 
 📫 How to reach me: ...
 
