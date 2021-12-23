@@ -4,7 +4,7 @@ I'm a Senior Staff DevOps Engineer at [freedomfinancialnetwork.com](https://www.
 
 <!-- with a focus on process automation in PowerShell and Jenkins pipeline workflows. -->
 
-💻 I’m currently focusing on working with cloud native tooling with Golang, K8S, Terraform, and GKE
+💻 I’m currently focusing on working with cloud native tooling, utilizing Golang, K8S, Terraform, and GKE
 
 📫 How to reach me: ...
 
