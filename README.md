@@ -1,6 +1,6 @@
 ### Hey I'm Chris 👋🤙
 
-I'm a Staff DevOps Engineer at located in the LA area.
+I'm a Staff DevOps Engineer located in the LA area.
 
 <!-- with a focus on process automation in PowerShell and Jenkins pipeline workflows. -->
 
