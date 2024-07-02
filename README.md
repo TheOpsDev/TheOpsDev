@@ -9,7 +9,6 @@ I'm a Staff DevOps Engineer located in the LA area.
 📫 How to reach me: ...
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/cherrera91/"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/linkedin_logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/TheOpsDev"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/HackerRank_logo.png"></a>&nbsp;&nbsp;
 <a href="mailto:christian@christian-herrera.com"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/email_icon.png"></a>&nbsp;&nbsp;
 </p>
