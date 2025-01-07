@@ -1,16 +1,17 @@
-### Hey I'm Chris 👋🤙
+### Hey, I'm Chris 👨🏽‍💻👋🏽🤙🏽
 
-I'm a Staff DevOps Engineer located in the LA area.
+I’m a seasoned Platform Engineer based in the LA area with extensive experience leading cloud engineering projects. I specialize in designing, deploying, and managing scalable, high-performance infrastructure using Kubernetes, Terraform, and cloud-native technologies.
 
-<!-- with a focus on process automation in PowerShell and Jenkins pipeline workflows. -->
+💻 Currently, I’m leading Kubernetes-focused initiatives to enhance Developer Experience (DevEx) across cloud platforms like GCP and AWS. By streamlining workflows, optimizing infrastructure, and automating processes, I’m driving efficiency and empowering development teams to work faster and smarter. I’m deeply committed to building scalable, reliable, and cost-effective systems while mentoring teams to implement cloud-native best practices and elevate the overall development process.
 
-💻 I’m currently focusing on working with cloud native tooling, utilizing Golang, K8S, Terraform, and GKE
 
 📫 How to reach me: ...
 
 <p align='center'>
-<a href="https://www.hackerrank.com/TheOpsDev"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/HackerRank_logo.png"></a>&nbsp;&nbsp;
-<a href="mailto:christian@christian-herrera.com"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/email_icon.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.hackerrank.com/TheOpsDev"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/HackerRank_logo.png"></a>&nbsp;&nbsp; -->
+<a href="https://blog.theops.dev"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/blog.png"></a>&nbsp;&nbsp;
+<a href="mailto:christian@christian-herrera.com"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/theopsdev"><img height="40" src="https://raw.githubusercontent.com/theopsdev/theopsdev/master/images/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 ⚡ Fun fact: jiu jitsu practitioner, 6 string surfer, and movie fanatic
